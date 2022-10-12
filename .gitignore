@@ -1,0 +1,6 @@
+**.tmp
+config.yml
+keystore.p12
+tmp
+repo/status
+metadata/**/phoneScreenshots
